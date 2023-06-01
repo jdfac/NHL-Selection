@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Apr  6 12:09:23 2022
 
-@author: joefa
-"""
 # This script allows users to enter desired countries and positions and creates seperate shapefiles broken down by
 # those countries and positions, and also updates each player's record with height and weight data in metric units. 
 
